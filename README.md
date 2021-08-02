@@ -6,4 +6,5 @@
 - 🔭 I’m currently studying on department of computer science, CBNU
 - 🌱 I’m currently learning React, redux, javascript
 
-![kingyong9169's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingyong9169&show_icons=true&theme=radical)
+![kingyong9169's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingyong9169&show_icons=true&theme=radical&count_private=true)
+)
