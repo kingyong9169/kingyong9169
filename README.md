@@ -12,4 +12,3 @@
 <img alt="styled-components" src ="https://img.shields.io/badge/styled-components-#DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
 
 ![kingyong9169's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingyong9169&show_icons=true&theme=radical&count_private=true)
-)
