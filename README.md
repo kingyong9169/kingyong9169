@@ -7,7 +7,8 @@
 
 🖥 My tech stack
 
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/> <img alt="Redux-Saga" src ="https://img.shields.io/badge/Redux Saga-999999.svg?&style=for-the-badge&logo=Redux-Saga&logoColor=white"/> <img alt="styled-components" src ="https://img.shields.io/badge/styled components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/> 
+<img alt="Redux-Saga" src ="https://img.shields.io/badge/Redux Saga-999999.svg?&style=for-the-badge&logo=Redux-Saga&logoColor=white"/> <img alt="styled-components" src ="https://img.shields.io/badge/styled components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
 
 ![kingyong9169's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingyong9169&show_icons=true&theme=radical&count_private=true)
