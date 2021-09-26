@@ -11,7 +11,4 @@
 <img alt="Redux-Saga" src ="https://img.shields.io/badge/Redux Saga-999999.svg?&style=flat&logo=Redux-Saga&logoColor=white"/> <img alt="styled-components" src ="https://img.shields.io/badge/styled components-DB7093.svg?&style=flat&logo=styled-components&logoColor=white"/>
 </div>
 
-![kingyong9169's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingyong9169&show_icons=true&theme=dracula&count_private=true&bg_color=)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingyong9169&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+![kingyong9169's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingyong9169&show_icons=true&count_private=true)
