@@ -13,8 +13,8 @@
 
 🖥 My BE tech stack
 
-<img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white"/></br>
-<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
+<img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/></br> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white"/>
+<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/> <img alt="Apache Kafka" src ="https://img.shields.io/badge/Apache Kafka-231F20.svg?&style=flat&logo=Apache Kafka&logoColor=white"/>
 </div>
 
 ![kingyong9169's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingyong9169&show_icons=true&count_private=true)
