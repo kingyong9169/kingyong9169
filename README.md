@@ -11,4 +11,10 @@
 <img alt="Redux-Saga" src ="https://img.shields.io/badge/Redux Saga-999999.svg?&style=flat&logo=Redux-Saga&logoColor=white"/> <img alt="styled-components" src ="https://img.shields.io/badge/styled components-DB7093.svg?&style=flat&logo=styled-components&logoColor=white"/>
 </div>
 
+🖥 My BE tech stack
+
+<img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white"/></br>
+<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
+</div>
+
 ![kingyong9169's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingyong9169&show_icons=true&count_private=true)
