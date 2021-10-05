@@ -17,4 +17,4 @@
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/> <img alt="Apache Kafka" src ="https://img.shields.io/badge/Apache Kafka-231F20.svg?&style=flat&logo=Apache Kafka&logoColor=white"/>
 </div>
 
-![kingyong9169's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingyong9169&show_icons=true&count_private=true)
+![kingyong9169's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingyong9169&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
