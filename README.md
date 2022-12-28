@@ -7,9 +7,13 @@
 ### ⚽️ Activity
 🏫 ChungBuk National Univ. Computer Science 2017.03 ~ 2022.12<br />
 
-🧑‍💻 Team ESC.com 2022.02 ~ <br />
+🧑‍💻 <b>Nexters 22th</b> 2022.01 ~ <br />
 
-🧑‍💻 Team CMI 2021.08 ~  <br />
+🧑‍💻 <b>SW Mastero 13th</b> 2022.04 ~ 2022.12<br />
+
+🧑‍💻 <b>Team ESC.com</b> 2022.02 ~ <br />
+
+🧑‍💻 <b>Team CMI</b> 2021.08 ~  <br />
 
 ### 💻 My FE tech stack
 
