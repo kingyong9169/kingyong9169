@@ -11,6 +11,7 @@
 <b>[SW Mastero 13th](https://github.com/SWM-re-pashion/repashion-client)</b> 2022.04 ~ 2022.12<br />
 <b>[Team ESC.com](https://github.com/ESC-CoM)</b> 2022.02 ~ <br />
 <b>[Team CMI](https://github.com/CMI-OSS/cbnu-alrami)</b> 2021.08 ~  <br />
+<b>[2021 충북대학교 SW중심대학사업단 창업 액셀러레이션(동상, 3등)](https://github.com/CBNU-AACP)</b> 2021.04 ~ 2021.09
 
 ### 💻 My FE tech stack
 
