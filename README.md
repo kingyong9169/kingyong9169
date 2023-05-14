@@ -23,6 +23,6 @@
 ### 🤙 Contact
 <a href="https://kingyong9169.github.io/TIL/" target="_blank"><img src="https://img.shields.io/badge/TIL-FFFFFF?style=flat&logo=github&logoColor=000000"/></a>  <a href="https://velog.io/@kingyong9169" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kingyong9169&slug=react-declarative-error-loading-handling)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kingyong9169&slug=react-declarative-error-loading-handling)](https://velog.io/@kingyong9169/react-declarative-error-loading-handling)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kingyong9169&slug=Redux-Tool-kit-총정리)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kingyong9169&slug=Redux-Tool-kit-총정리)](https://velog.io/@kingyong9169/Redux-Tool-kit-%EC%B4%9D%EC%A0%95%EB%A6%AC)
