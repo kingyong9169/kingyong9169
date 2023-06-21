@@ -3,8 +3,12 @@
 > 디테일이 차이를 만든다! 디테일한 개발자 김동용입니다.<br />
 > 😈 예외처리와 📱UX, DX 개선을 좋아합니다.
 <div><br />
-  
-🎓 ChungBuk National Univ. Computer Science 2017.03 ~ 2023.02<br />
+
+<b>[WhaTap Labs](https://www.whatap.io)</b> 2023.06 ~ <br />
+
+<hr />
+
+ChungBuk National Univ. Computer Science 2017.03 ~ 2023.02<br />
 <hr />
 
 <b>[Nexters 22th](https://github.com/Nexters/who-really-wants-to-play)</b> 2023.01 ~ 2023.03<br />
