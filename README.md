@@ -7,6 +7,7 @@
 
 <hr />
 
+<b>[Nexters 24th](https://github.com/Nexters/daily-phrase-web)</b> 2024.01 ~ 2024.03<br />
 <b>[Nexters 22th](https://github.com/Nexters/who-really-wants-to-play)</b> 2023.01 ~ 2023.03<br />
 <b>[SW Mastero 13th](https://github.com/SWM-re-pashion/repashion-client)</b> 2022.04 ~ 2022.12<br />
 <b>[Team ESC.com](https://github.com/ESC-CoM)</b> 2022.02 ~ <br />
